@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/scenona.unity
-=======
-- path: Assets/Scenes/scenaNapo.unity
->>>>>>> c0cdbd77c64f44fc415fd241097d22c8293c0737
   isLoaded: 1
   isActive: 1
   isSubScene: 0
