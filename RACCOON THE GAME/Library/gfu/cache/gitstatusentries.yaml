@@ -13,8 +13,56 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-03-13T00:59:55.017+01:00
   initializedAtString: 2020-03-13T00:59:42.527+01:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2020-03-13T00:43:00.743+01:00
+  initializedAtString: 2020-03-13T00:38:18.031+01:00
+  entries:
+  - path: RACCOON THE GAME\Assets\Cube.prefab
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Assets\Cube.prefab
+    projectPath: Assets\Cube.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RACCOON THE GAME\Assets\Cube.prefab.meta
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Assets\Cube.prefab.meta
+    projectPath: Assets\Cube.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RACCOON THE GAME\Assets\floor.png
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Assets\floor.png
+    projectPath: Assets\floor.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Assets\floor.png.meta
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Assets\floor.png.meta
+    projectPath: Assets\floor.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Assets\player.png
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Assets\player.png
+    projectPath: Assets\player.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Assets\player.png.meta
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Assets\player.png.meta
+    projectPath: Assets\player.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\ArtifactDB
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\ArtifactDB
+=======
+  lastUpdatedAtString: 2020-03-13T00:52:57.694+01:00
+  initializedAtString: 2020-03-13T00:52:00.065+01:00
+>>>>>>> c0cdbd77c64f44fc415fd241097d22c8293c0737
   entries:
   - path: RACCOON THE GAME\Assets\scenona.unity
     fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Assets\scenona.unity
@@ -30,10 +78,12 @@ MonoBehaviour:
     workTreeStatus: 1
   - path: RACCOON THE GAME\Library\ArtifactDB
     fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Library\ArtifactDB
+>>>>>>> bfbbfc62b28032085f19def8be0f548bdeca8926
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: RACCOON THE GAME\Library\Artifacts\23\23f3b861defdfae1ead46e5168fbbcff
     fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Library\Artifacts\23\23f3b861defdfae1ead46e5168fbbcff
     projectPath: Library\Artifacts\23\23f3b861defdfae1ead46e5168fbbcff
@@ -43,6 +93,152 @@ MonoBehaviour:
   - path: RACCOON THE GAME\Library\Artifacts\67\67920fc5284125ff5cd333abb27869f9
     fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Library\Artifacts\67\67920fc5284125ff5cd333abb27869f9
     projectPath: Library\Artifacts\67\67920fc5284125ff5cd333abb27869f9
+=======
+  - path: RACCOON THE GAME\Library\Artifacts\11\11410ed0c80e46df5cd8578d43da420b
+<<<<<<< HEAD
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\11\11410ed0c80e46df5cd8578d43da420b
+=======
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Library\Artifacts\11\11410ed0c80e46df5cd8578d43da420b
+>>>>>>> bfbbfc62b28032085f19def8be0f548bdeca8926
+    projectPath: Library\Artifacts\11\11410ed0c80e46df5cd8578d43da420b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+<<<<<<< HEAD
+  - path: RACCOON THE GAME\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RACCOON THE GAME\Library\Artifacts\24\247332eb51d40cd070945713870b6d92
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\24\247332eb51d40cd070945713870b6d92
+    projectPath: Library\Artifacts\24\247332eb51d40cd070945713870b6d92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\5d\5da2b4c2b4f166e119a126cf023494d1
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\5d\5da2b4c2b4f166e119a126cf023494d1
+    projectPath: Library\Artifacts\5d\5da2b4c2b4f166e119a126cf023494d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RACCOON THE GAME\Library\Artifacts\68\68b078b2a4169ea5dae89d978b06b74c
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\68\68b078b2a4169ea5dae89d978b06b74c
+    projectPath: Library\Artifacts\68\68b078b2a4169ea5dae89d978b06b74c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    projectPath: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\8d\8d97c8abdab48fb4ca858c59b7eca205
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\8d\8d97c8abdab48fb4ca858c59b7eca205
+    projectPath: Library\Artifacts\8d\8d97c8abdab48fb4ca858c59b7eca205
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RACCOON THE GAME\Library\Artifacts\a8\a830faa597e4cafb5c3ee5709218de3f
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\a8\a830faa597e4cafb5c3ee5709218de3f
+    projectPath: Library\Artifacts\a8\a830faa597e4cafb5c3ee5709218de3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\b1\b1dc7165585490d5a0768f2cd257a426
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\b1\b1dc7165585490d5a0768f2cd257a426
+    projectPath: Library\Artifacts\b1\b1dc7165585490d5a0768f2cd257a426
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\b7\b7000724f7ca64b8e4c97c596c13949e
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\b7\b7000724f7ca64b8e4c97c596c13949e
+    projectPath: Library\Artifacts\b7\b7000724f7ca64b8e4c97c596c13949e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RACCOON THE GAME\Library\Artifacts\be\be728d599ea18f6096b2302a6c8636b6
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\be\be728d599ea18f6096b2302a6c8636b6
+    projectPath: Library\Artifacts\be\be728d599ea18f6096b2302a6c8636b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\cb\cb551c7b1b7f5f1078bf9f3f5fa92af2
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\cb\cb551c7b1b7f5f1078bf9f3f5fa92af2
+    projectPath: Library\Artifacts\cb\cb551c7b1b7f5f1078bf9f3f5fa92af2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    projectPath: Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\Artifacts\f0\f0c4b7cb0b09f9850bb1fd3144475e0f
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\Artifacts\f0\f0c4b7cb0b09f9850bb1fd3144475e0f
+    projectPath: Library\Artifacts\f0\f0c4b7cb0b09f9850bb1fd3144475e0f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RACCOON THE GAME\Library\EditorInstance.json
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RACCOON THE GAME\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RACCOON THE GAME\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RACCOON THE GAME\Library\ShaderCache\1\15e14ac9af29483d85d9cb5bd709ac18.bin
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\ShaderCache\1\15e14ac9af29483d85d9cb5bd709ac18.bin
+    projectPath: Library\ShaderCache\1\15e14ac9af29483d85d9cb5bd709ac18.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\ShaderCache\b\b1964245607607bd5b0618e6111b9325.bin
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\ShaderCache\b\b1964245607607bd5b0618e6111b9325.bin
+    projectPath: Library\ShaderCache\b\b1964245607607bd5b0618e6111b9325.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RACCOON THE GAME\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RACCOON THE GAME\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+=======
+  - path: RACCOON THE GAME\Library\Artifacts\17\17dc7e4c8c64f368085401b3fd4d4587
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Library\Artifacts\17\17dc7e4c8c64f368085401b3fd4d4587
+    projectPath: Library\Artifacts\17\17dc7e4c8c64f368085401b3fd4d4587
+>>>>>>> c0cdbd77c64f44fc415fd241097d22c8293c0737
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -109,11 +305,16 @@ MonoBehaviour:
   - path: RACCOON THE GAME\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> bfbbfc62b28032085f19def8be0f548bdeca8926
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: RACCOON THE GAME\Library\SourceAssetDB
+<<<<<<< HEAD
+    fullPath: C:\Users\gnele\Documents\RACCOON\RACCOON THE GAME\Library\SourceAssetDB
+=======
     fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Library\SourceAssetDB
+>>>>>>> bfbbfc62b28032085f19def8be0f548bdeca8926
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
@@ -124,3 +325,99 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  - path: RACCOON THE GAME\Temp\UnityTempFile-04218a607edd0b84cabddc45f40b2217
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-04218a607edd0b84cabddc45f40b2217
+    projectPath: Temp\UnityTempFile-04218a607edd0b84cabddc45f40b2217
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-090684b3a34c9054ab8ef07f07aa34e8
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-090684b3a34c9054ab8ef07f07aa34e8
+    projectPath: Temp\UnityTempFile-090684b3a34c9054ab8ef07f07aa34e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-31646935a0fa36f4aa9ef5f04f088fb3
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-31646935a0fa36f4aa9ef5f04f088fb3
+    projectPath: Temp\UnityTempFile-31646935a0fa36f4aa9ef5f04f088fb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-3277d155fc6729e449b3e878ff13c78e
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-3277d155fc6729e449b3e878ff13c78e
+    projectPath: Temp\UnityTempFile-3277d155fc6729e449b3e878ff13c78e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-4ae0c18e3d6fbe04a877d0e113e078b1
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-4ae0c18e3d6fbe04a877d0e113e078b1
+    projectPath: Temp\UnityTempFile-4ae0c18e3d6fbe04a877d0e113e078b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-505832ee916d6384f93875c72c5c3f80
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-505832ee916d6384f93875c72c5c3f80
+    projectPath: Temp\UnityTempFile-505832ee916d6384f93875c72c5c3f80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-6dbffe122965d914eb63d2efd8944f44
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-6dbffe122965d914eb63d2efd8944f44
+    projectPath: Temp\UnityTempFile-6dbffe122965d914eb63d2efd8944f44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-82f2ebb79dba2704e982bc4bb1faa968
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-82f2ebb79dba2704e982bc4bb1faa968
+    projectPath: Temp\UnityTempFile-82f2ebb79dba2704e982bc4bb1faa968
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-997e9bed571a293498f54fc442e74616
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-997e9bed571a293498f54fc442e74616
+    projectPath: Temp\UnityTempFile-997e9bed571a293498f54fc442e74616
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-ac45dd14ebf88ab4493e7ddb92eebebe
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-ac45dd14ebf88ab4493e7ddb92eebebe
+    projectPath: Temp\UnityTempFile-ac45dd14ebf88ab4493e7ddb92eebebe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-af50e66d6e9df41469d1ae99fbd31485
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-af50e66d6e9df41469d1ae99fbd31485
+    projectPath: Temp\UnityTempFile-af50e66d6e9df41469d1ae99fbd31485
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-c8986bba6a13db342bb3d2a0be732cf7
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-c8986bba6a13db342bb3d2a0be732cf7
+    projectPath: Temp\UnityTempFile-c8986bba6a13db342bb3d2a0be732cf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-d1e00eee34607974abe351ea11d71db3
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-d1e00eee34607974abe351ea11d71db3
+    projectPath: Temp\UnityTempFile-d1e00eee34607974abe351ea11d71db3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-e6f7e5199199f0d49a56ee5055c3974e
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-e6f7e5199199f0d49a56ee5055c3974e
+    projectPath: Temp\UnityTempFile-e6f7e5199199f0d49a56ee5055c3974e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RACCOON THE GAME\Temp\UnityTempFile-f1d63d51f18457d419634acc9ca33cb0
+    fullPath: C:\Users\seran\Documents\GitHub\RACCOON\RACCOON THE GAME\Temp\UnityTempFile-f1d63d51f18457d419634acc9ca33cb0
+    projectPath: Temp\UnityTempFile-f1d63d51f18457d419634acc9ca33cb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+>>>>>>> bfbbfc62b28032085f19def8be0f548bdeca8926
+>>>>>>> c0cdbd77c64f44fc415fd241097d22c8293c0737

@@ -13,8 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-03-13T00:59:42.508+01:00
   initializedAtString: 2020-03-13T00:59:42.508+01:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2020-03-13T00:38:17.678+01:00
+  initializedAtString: 2020-03-13T00:38:17.678+01:00
+=======
+  lastUpdatedAtString: 2020-03-13T00:51:45.954+01:00
+  initializedAtString: 2020-03-13T00:51:45.954+01:00
+>>>>>>> bfbbfc62b28032085f19def8be0f548bdeca8926
+>>>>>>> c0cdbd77c64f44fc415fd241097d22c8293c0737
   currentGitRemote:
     name: origin
     url: https://github.com/serafinon/RACCOON.git
